@@ -1,0 +1,65 @@
+.admin-dashboard-container {
+  padding: 20px;
+  height: 100vh;
+  background-color: #111927;
+  background-image: 
+      radial-gradient(at 47% 33%, hsl(185.53, 86%, 47%) 0, transparent 59%), 
+      radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.user-list {
+  max-width: 800px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.user-item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.user-item:last-child {
+  border-bottom: none;
+}
+
+h4 {
+  margin: 0 0 10px;
+  color: #007bff;
+}
+
+.availability-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.availability-item {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.availability-item div {
+  margin-bottom: 5px;
+}
+
+.availability-item strong {
+  color: #333;
+}
+.logout-button1{
+max-width: 100%;
+float: right;
+}
+

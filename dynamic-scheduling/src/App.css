@@ -1,0 +1,32 @@
+/* User Availability styles */
+.availability-container {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.availability-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.availability-list li {
+  padding: 8px;
+  margin-bottom: 5px;
+  background-color: #f1f1f1;
+  border-radius: 3px;
+}
+.edit-span{
+  padding: 10px;
+}
+.edit-btn{
+  background-color: rgb(210, 202, 46);
+  border-radius: 1cap;
+}
+.delete-btn{
+  background-color: red;
+  border-radius: 1cap;
+}
