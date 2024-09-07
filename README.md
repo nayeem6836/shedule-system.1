@@ -59,6 +59,7 @@ This project is a web-based application that allows users to dynamically set the
 4. **Access the Application**:
    - The browser automatically opens with the url `http://localhost:3000`, if not then
    - Open your browser and navigate to `http://localhost:3000`.
+   - in the login form password feild is not clickable then press tab button to aceess the input feild
 
 ### Project Structure
 
